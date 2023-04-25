@@ -18,3 +18,5 @@ two valid playlists must be entered will appear.
 This app was developed using python, html, css, and javascript. It is a Django app and uses Spotify for Developers, as well as the Spotipy API, Bootstrap, 
 JSON, and jQuery. We developed this app by following the Agile methodology.
 
+P.S. Apologies in advance for Colin's rather inappropriate commit message.
+
